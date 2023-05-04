@@ -1,1 +1,1 @@
-vless://e039ee3a-f763-4959-947f-ba308cd34a4d@vless-ctb-sg01.globalssh.xyz:443?security=tls&encryption=none&host=vless-ctb-sg01.globalssh.xyz&type=ws&path=/vless-ws&sni=vless-ctb-sg01.globalssh.xyz#pouryasgg-globalssh_vless_ws_tls
+vless://f2ef4810-ea85-11ed-934f-1239d0255272@fr1.socifiles.com:443?security=tls&type=ws&path=/vlws#FR+Vless-WS(2023-05-11)
