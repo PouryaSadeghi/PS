@@ -1,1 +1,4 @@
-trojan://3b019370-ea6a-11ed-b536-1239d0255272@tr.test3.net:443?security=tls&sni=tr.test3.net&type=ws&path=/howdy&host=tr.test3.net
+vless://919ce76e-d67b-4627-aef7-2c90067ce738@vless-ctb-de01.globalssh.xyz:443?security=tls&sni=vless-ctb-de01.globalssh.xyz&type=ws&path=/vless-ws&host=vless-ctb-de01.globalssh.xyz#pourya-globalssh_vless_ws_tls
+trojan://pourya77@trojan-ctb-us01.globalssh.xyz:443?security=tls&sni=trojan-ctb-us01.globalssh.xyz&allowInsecure=1&type=tcp#pouryas-globalssh_trojan_ws
+trojan://pourya77@trojan-ctb-us01.globalssh.xyz:443?security=tls&sni=trojan-ctb-us01.globalssh.xyz&type=tcp#pouryas-globalssh_trojan
+trojan://pourya77@trojan-ctb-us01.globalssh.xyz:443?security=tls&sni=trojan-ctb-us01.globalssh.xyz&type=grpc&serviceName=trojan-grpc#pouryas-globalssh_trojan_grpc
