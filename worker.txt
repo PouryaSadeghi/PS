@@ -1,1 +1,1 @@
-vless://ff1d42b5-8f72-45e2-81d1-cd964a850318@vless-ctb-us01.globalssh.xyz:443?security=tls&sni=vless-ctb-us01.globalssh.xyz&type=ws&path=/vless-ws&host=vless-ctb-us01.globalssh.xyz#pouryaus-globalssh_vless_ws_tls
+vless://22c72844-1703-455b-9385-62690c04ba12@vless-ikd-id01.globalssh.xyz:443?security=tls&sni=vless-ikd-id01.globalssh.xyz&type=ws&path=/vless-ws&host=vless-ikd-id01.globalssh.xyz#pouryaid-globalssh_vless_ws_tls
