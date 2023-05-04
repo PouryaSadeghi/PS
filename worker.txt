@@ -1,1 +1,5 @@
-vless://f2ef4810-ea85-11ed-934f-1239d0255272@fr1.socifiles.com:443?security=tls&type=ws&path=/vlws#FR+Vless-WS(2023-05-11)
+vless://01a43c53-d672-410e-9bb0-95caa88f2c26@ukray.serverip.my.id:443?security=tls&sni=ukray.serverip.my.id&type=ws&path=/serverssh&host=ukray.serverip.my.id#serverssh-pourya2
+vless://41498afd-3cd3-477d-9a52-9c05c5510d3c@frlws.mainssh.xyz:443?security=tls&sni=frlws.mainssh.xyz&type=ws&path=/vless&host=frlws.mainssh.xyz#mainssh-pourya9
+vless://7626ab46-7873-463e-9414-893c9e16b358@frvless.ipservers.xyz:443?security=tls&sni=frvless.ipservers.xyz&type=ws&path=/jagoanssh&host=frvless.ipservers.xyz#jagoanssh-pourya0
+vmess://eyJhZGQiOiJ1cy1sYi5zc2hraXQub3JnIiwiYWlkIjoiMCIsImhvc3QiOiJ1cy1sYi5zc2hraXQub3JnIiwiaWQiOiI2ZmVhMTY0OS00MjViLTQwOTItYmY1My0yOTc5MjE1MmM5MjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3Noa2l0L3BvdXJ5YTAvNjQ1M2ViZTZiYzZjNy8iLCJwb3J0IjoiNDQzIiwicHMiOiJ1cy1sYi5zc2hraXQub3JnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ2bS5kZS5nb3NlcnZlci5wdyIsImFpZCI6IjAiLCJob3N0IjoiZGUuZ29zZXJ2ZXIucHciLCJpZCI6ImEzNGQxYWRmLTBlNGQtNGEzZC1hNGFmLTRjMGIwN2JlYzNjMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92MnJheS12bWVzcy90bHMiLCJwb3J0IjoiNDQzIiwicHMiOiJkZS5nb3NlcnZlci5wdy10bHMtRUx1dmItZGV3YXNzaG5ldCIsInNjeSI6ImF1dG8iLCJzbmkiOiJkZS5nb3NlcnZlci5wdyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
