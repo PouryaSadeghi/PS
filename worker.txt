@@ -1,1 +1,1 @@
-vless://284b8849-6ef6-46c6-a1d4-02ef3ad58ec0@vn1-ws.xvless.xyz:443?security=tls&sni=time.ir&type=ws&path=/websocket&host=vn1-ws.xvless.xyz#sshocean-pourya
+vmess://eyJhZGQiOiJmcjMtZnVsbC5wcml2YXRlaXAubmV0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjU4ZTNjZGUzLTQzYWMtNGMwZC04Mzg1LWVjM2QzY2IwOWQyOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3Mtd3MtdGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
