@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiJmcjMtZnVsbC5wcml2YXRlaXAubmV0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjU4ZTNjZGUzLTQzYWMtNGMwZC04Mzg1LWVjM2QzY2IwOWQyOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYWNldnBuIiwicG9ydCI6IjQ0MyIsInBzIjoidm1lc3Mtd3MtdGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://3ebf47a2-8567-4c33-a6cc-a6ae73cc4aa8@pl1-xray.greenssh.xyz:443?security=tls&sni=pl1-xray.greenssh.xyz&type=ws&path=/websocket&host=pl1-xray.greenssh.xyz#greenssh-pourya11
