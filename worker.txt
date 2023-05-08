@@ -1,1 +1,2 @@
-vless://3ebf47a2-8567-4c33-a6cc-a6ae73cc4aa8@pl1-xray.greenssh.xyz:443?security=tls&sni=pl1-xray.greenssh.xyz&type=ws&path=/websocket&host=pl1-xray.greenssh.xyz#greenssh-pourya11
+vless://436cacb8-da01-4386-9164-e15e4249a48a@vless-ctb-de01.globalssh.xyz:443?security=tls&sni=vless-ctb-de01.globalssh.xyz&type=ws&path=/vless-ws&host=vless-ctb-de01.globalssh.xyz#pourya-globalssh_vless_ws_tls
+vless://a072d5e0-dc7f-491d-9ec7-d4516d5901ff@vless-ctb-sg01.globalssh.xyz:443?security=tls&sni=vless-ctb-sg01.globalssh.xyz&type=ws&path=/vless-ws&host=vless-ctb-sg01.globalssh.xyz#pouryasg-globalssh_vless_ws_tls
