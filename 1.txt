@@ -4,3 +4,5 @@ vmess://eyJhZGQiOiJtaWNyb3NvZnRkZWJ1Zy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6InYxLmxzYjEu
 vless://016338f9-290b-4698-9cba-d32a35f0b074@104.17.202.14:443?security=tls&sni=vfarid.pouryasadeghi.workers.dev&type=ws&path=/uk-freevmess.privateip.net:443/vless&host=vfarid.pouryasadeghi.workers.dev#Freevmess%20-%20UK
 vless://2b166c59-bc7f-4a34-b472-a8b031ec7709@104.17.213.183:443?security=tls&sni=vfarid.pouryasadeghi.workers.dev&type=ws&path=/fr1vl.xservs.xyz:443/vless&host=vfarid.pouryasadeghi.workers.dev#SSH%20Stores%20-%20FR
 vless://436cacb8-da01-4386-9164-e15e4249a48a@104.17.39.70:443?security=tls&sni=vfarid.pouryasadeghi.workers.dev&type=ws&path=/vless-ctb-de01.globalssh.xyz:443/vless-ws&host=vfarid.pouryasadeghi.workers.dev#GlobalSSH%20-%20DE
+vless://c0e67e98-9a6c-4e1f-b907-85c21fa46020@13.225.78.106:80?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#Aleph_Magic_13.225.78.106_80
+vless://c0e67e98-9a6c-4e1f-b907-85c21fa46020@13.225.78.129:80?security=tls&sni=d1ibda8c7xvsbz.cloudfront.net&type=ws&path=/ws&host=d1ibda8c7xvsbz.cloudfront.net#Aleph_Magic_13.225.78.129_80
