@@ -1,2 +1,2 @@
-vless://016338f9-290b-4698-9cba-d32a35f0b074@uk-freevmess.privateip.net:443?security=tls&type=ws&path=/vless#vless-ws-tls
-vless://2b166c59-bc7f-4a34-b472-a8b031ec7709@fr1vl.xservs.xyz:443?security=tls&type=ws&path=/vless&host=fr1vl.xservs.xyz#sshstores-pourya000
+vless://f7b28bad-9afa-4abe-a1c3-de48bb2a403b@fr-freevmess.privateip.net:443?security=tls&type=ws&path=/vless#vless-ws-tls
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@rux-1.openv2ray.com:443?security=tls&type=ws&path=/opentunnel?user%3Dopentunnel.net-pourya&host=rux-1.openv2ray.com#opentunnel.net-pourya
