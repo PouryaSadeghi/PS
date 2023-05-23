@@ -1,3 +1,2 @@
 vless://7045a954-da37-4f94-9fed-97e282446c4e@193.176.179.208:3074?security=reality&sni=www.ads.google.com&fp=chrome&pbk=QcYbuqRNZlQJGc5feUpAoB5YzbiEIAL5r5UzclKciB4&sid=b302e14a2a46ab5e&type=tcp&flow=xtls-rprx-vision#%F0%9F%97%BC%20Reality
 trojan://w2DaO6vuk9@isna.ir:8443?security=tls&sni=dl.pou77.online&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=dl.pou77.online&path=%2Fservice#%F0%9F%9A%80%20Arvan
-upmbps=11&downmbps=55&obfs=xplus&obfsParam=pa8b23f3742a&insecure=1&recv_window=13631488&recv_window_conn=3407872#%E2%9A%A1%EF%B8%8F%20Hysteria
