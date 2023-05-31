@@ -1,0 +1,57 @@
+{
+    "log": {
+        "level": "info",
+        "timestamp": true
+    },
+    "inbounds": [
+        {
+            "type": "vless",
+            "tag": "vless-in",
+            "listen": "::",
+            "listen_port": 3075,
+            "sniff": true,
+            "sniff_override_destination": true,
+            "domain_strategy": "ipv4_only",
+            "users": [
+                {
+        "uuid": "",
+            "flow": "xtls-rprx-vision"
+                }
+            ],
+            "tls": {
+                "enabled": true,
+            "server_name": "www.123apps.com",
+                "reality": {
+                    "enabled": true,
+                    "handshake": {
+                                        "server": "www.123apps.com",
+                    "server_port": 443
+                    },
+               "private_key": "",
+                    "short_id": [ 
+                                       ""
+                    ]
+                }
+            }
+        }
+    ],
+    "outbounds": [
+    {
+"type": "wireguard",
+"tag": "wireguard-out",
+"server": "46.166.182.31",
+"server_port": 51820,
+"system_interface": false,
+"interface_name": "wg0",
+"local_address": [
+  "10.2.0.2/32"
+],
+"private_key": "kGFKW/pGpOqks8ahRXmybpXjTiKaIe4BWpd+0lXFflo=",
+"peer_public_key": "AOJUir4M1zuvWdBt7dzB/4pO/DI3ysnZyfo6fIMGKE0=",
+"pre_shared_key": "",
+"reserved": "",
+"workers": 8,
+"mtu": 1420
+    }
+    ]
+}
