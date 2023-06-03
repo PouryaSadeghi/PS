@@ -1,1 +1,1 @@
-vless://4f17e173-4af9-5041-9662-f6c27e0decfd@nlx-1.openv2ray.com:443?security=tls&type=ws&path=/opentunnel?user%3Dopentunnel.net-pourya88#opentunnel.net-pourya88
+vless://4ed6c550-0d48-4b69-aea4-bcdbd2640aa8@vless-ctb-de01.globalssh.xyz:443?security=tls&encryption=none&host=vless-ctb-de01.globalssh.xyz&type=ws&path=/vless-ws&sni=vless-ctb-de01.globalssh.xyz#pouryasade-globalssh_vless_ws_tls
