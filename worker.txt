@@ -1,1 +1,1 @@
-vless://4ed6c550-0d48-4b69-aea4-bcdbd2640aa8@vless-ctb-de01.globalssh.xyz:443?security=tls&encryption=none&host=vless-ctb-de01.globalssh.xyz&type=ws&path=/vless-ws&sni=vless-ctb-de01.globalssh.xyz#pouryasade-globalssh_vless_ws_tls
+trojan://e19b69aa-340f-4516-8f1f-038f523e1e69@mkc3ui-8080.csb.app:443?security=tls&sni=mkc3ui-8080.csb.app&fp=chrome&type=ws&path=/e19b69aa-340f-4516-8f1f-038f523e1e69-tr&host=mkc3ui-8080.csb.app#Sandbox
