@@ -1,1 +1,1 @@
-vless://4f17e173-4af9-5041-9662-f6c27e0decfd@rux-1.openv2ray.com:443?encryption=none&security=tls&type=ws&host=rux-1.openv2ray.com&path=%2fopentunnel%3fuser%3dopentunnel.net-pouri#opentunnel.net-pouri
+trojan://e19b69aa-340f-4516-8f1f-038f523e1e69@mkc3ui-8080.csb.app:443?security=tls&sni=mkc3ui-8080.csb.app&fp=chrome&type=ws&path=/e19b69aa-340f-4516-8f1f-038f523e1e69-tr&host=mkc3ui-8080.csb.app#%F0%9F%87%A9%F0%9F%87%AA%20Sandbox
