@@ -199,7 +199,7 @@ proxies:
   plugin: shadow-tls
   client-fingerprint: chrome
   plugin-opts:
-    host: "www.avval.ir" #握手服务器地址
+    host: "www.apple.com" #握手服务器地址
     password: "LN0PrkvcoG9szowlC25QlcYXUvRa2e4q2yrE8FnLBcQ="   #ShadowTLS密码
     version: 3 # support 1/2/3
 proxy-groups: 
