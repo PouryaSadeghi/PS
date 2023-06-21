@@ -193,7 +193,7 @@ proxies:
 - name: ShadowTLS v3
   type: ss
   server: 193.176.179.208 #VPS IP地址
-  port: 3075 #监听端口
+  port: 443 #监听端口
   cipher: 2022-blake3-chacha20-poly1305 #shadowsocks节点的加密方式
   password: "bNKNOu5aMas/duc7SnOn63WZ8xYCZ5LMXOnbim5s66g=" #shadowsocks节点的密码
   plugin: shadow-tls
