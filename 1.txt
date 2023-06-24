@@ -1,3 +1,1 @@
-vless://97fb41d9-2b9e-4548-c93d-db3befc3259d@open.silvermoon.host:3311?encryption=none&security=reality&sni=123apps.com&fp=chrome&pbk=klfKbDTBohkuNjOj9PLzrWYWsPptFFS2f3wmJGHsnEo&sid=65f26977&spx=%2F&type=http&host=soft98.ir&path=%2Fservice#%F0%9F%97%BC%20Reality
-vless://7045a954-da37-4f94-9fed-97e282446c4e@open.silvermoon.host:3074?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.123apps.com&fp=chrome&pbk=QcYbuqRNZlQJGc5feUpAoB5YzbiEIAL5r5UzclKciB4&sid=b302e14a2a46ab5e&type=tcp&headerType=none#%E2%9B%88%20WARP%2B
-trojan://w2DaO6vuk9@isna.ir:8443?security=tls&sni=dl.pou77.online&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=dl.pou77.online&path=%2Fservice#%E2%9B%85%EF%B8%8F%20Arvan
+vless://f0a126ef-0cda-41e3-9211-b56694c0e787@mci.bamarambash.monster:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host#%E2%98%81%EF%B8%8F%20Worker
