@@ -1,1 +1,2 @@
-vless://f0a126ef-0cda-41e3-9211-b56694c0e787@mci.bamarambash.monster:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host#%E2%98%81%EF%B8%8F%20Worker
+vless://f0a126ef-0cda-41e3-9211-b56694c0e787@mci.bamarambash.monster:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host#%E2%98%81%EF%B8%8F%20Worker%201
+vless://f0a126ef-0cda-41e3-9211-b56694c0e787@160.153.0.10:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host#%E2%98%81%EF%B8%8F%20Worker%202
