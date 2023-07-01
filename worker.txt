@@ -1,1 +1,1 @@
-trojan://292eb2f9-ff53-4514-8f1b-51255fdd0281@mkc3ui-8080.csb.app:443?security=tls&sni=mkc3ui-8080.csb.app&fp=chrome&type=ws&path=292eb2f9-ff53-4514-8f1b-51255fdd0281-tr&host=mkc3ui-8080.csb.app#%F0%9F%87%A9%F0%9F%87%AA%20Sandbox
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@rux-1.openv2ray.com:443?security=tls&type=ws&path=/opentunnel?user%3Dopentunnel.net-pourya#opentunnel.net-pourya
