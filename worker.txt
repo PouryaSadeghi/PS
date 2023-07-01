@@ -1,1 +1,1 @@
-trojan://292eb2f9-ff53-4514-8f1b-51255fdd0281@mkc3ui-8080.csb.app:443?security=tls&sni=mkc3ui-8080.csb.app&fp=chrome&type=ws&path=54c6f74c-d485-4452-84d6-f6305a2c5b0c-tr&host=mkc3ui-8080.csb.app#%F0%9F%87%A9%F0%9F%87%AA%20Sandbox
+trojan://292eb2f9-ff53-4514-8f1b-51255fdd0281@mkc3ui-8080.csb.app:443?security=tls&sni=mkc3ui-8080.csb.app&fp=chrome&type=ws&path=292eb2f9-ff53-4514-8f1b-51255fdd0281-tr&host=mkc3ui-8080.csb.app#%F0%9F%87%A9%F0%9F%87%AA%20Sandbox
