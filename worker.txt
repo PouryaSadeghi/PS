@@ -1,3 +1,1 @@
-vless://2d61ada7-db46-4182-a223-bd3890a509b7@vless-ctb-de01.globalssh.xyz:443?security=tls&sni=vless-ctb-de01.globalssh.xyz&type=tcp&headerType=http&host=vless-ctb-de01.globalssh.xyz#pouhfhhd-globalssh_vless_tcp_tls
-vless://2d61ada7-db46-4182-a223-bd3890a509b7@vless-ctb-de01.globalssh.xyz:443?security=tls&sni=vless-ctb-de01.globalssh.xyz&type=ws&path=/vless-ws&host=vless-ctb-de01.globalssh.xyz#pouhfhhd-globalssh_vless_ws_tls
-vless://2d61ada7-db46-4182-a223-bd3890a509b7@vless-ctb-de01.globalssh.xyz:443?security=tls&sni=vless-ctb-de01.globalssh.xyz&type=grpc&serviceName=vless-grpc#pouhfhhd-globalssh_vless_grpc_tls
+trojan://292eb2f9-ff53-4514-8f1b-51255fdd0281@mkc3ui-8080.csb.app:443?security=tls&sni=mkc3ui-8080.csb.app&fp=chrome&type=ws&path=54c6f74c-d485-4452-84d6-f6305a2c5b0c-tr&host=mkc3ui-8080.csb.app#%F0%9F%87%A9%F0%9F%87%AA%20Sandbox
