@@ -1,1 +1,1 @@
-vless://31b7a2d8-a1cd-4f82-8ee6-746895302411@fr-freevmess.privateip.net:443?security=tls&type=ws&path=/vless#vless-ws-tls
+vless://17374644-6207-411c-8447-4a06c78a9c8f@fr1-xray.greenssh.xyz:443?security=tls&sni=fr1-xray.greenssh.xyz&type=ws&path=/websocket&host=fr1-xray.greenssh.xyz#greenssh-pourya7
