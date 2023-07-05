@@ -1,1 +1,2 @@
 vless://d891d72c-cf0b-4eac-97c8-da532bc85607@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#vless-ws-tls
+vless://c0d67dc1-8fc6-48bc-bfdf-ecfeba00d5b3@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#vless-ws-tls
