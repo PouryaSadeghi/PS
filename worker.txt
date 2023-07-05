@@ -1,1 +1,1 @@
-vless://17374644-6207-411c-8447-4a06c78a9c8f@fr1-xray.greenssh.xyz:443?security=tls&sni=fr1-xray.greenssh.xyz&type=ws&path=/websocket&host=fr1-xray.greenssh.xyz#greenssh-pourya7
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@frx-1.openv2ray.com:443?security=tls&type=ws&path=/opentunnel?user%3Dopentunnel.net-pourya7#opentunnel.net-pourya7
