@@ -1,2 +1,2 @@
-vless://f0a126ef-0cda-41e3-9211-b56694c0e787@1.silvermoon.host:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host#%E2%98%81%EF%B8%8F%20Worker%201
-vless://f0a126ef-0cda-41e3-9211-b56694c0e787@104.31.16.218:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host#%E2%98%81%EF%B8%8F%20Worker%202
+vless://506a21fa-de54-4dfd-9021-6fe27a4f2e8b@1.silvermoon.host:2087?encryption=none&security=tls&sni=dl.silvermoon.host&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=service&mode=gun#%F0%9F%8E%AD%20Cloudflare
+vless://f0a126ef-0cda-41e3-9211-b56694c0e787@104.31.16.218:443?encryption=none&security=tls&sni=dev.silvermoon.host&type=ws&host=dev.silvermoon.host&path=%2Fvless%2Ff0a126ef-0cda-41e3-9211-b56694c0e787#%E2%98%81%EF%B8%8F%20Worker
