@@ -1,3 +1,2 @@
 vless://8484f98f-b7bc-4e43-962b-9f3a9b270db7@194.28.226.51:3311?encryption=none&security=reality&sni=123apps.com&fp=chrome&pbk=Y3XQKQiTuJGULGJO_xMrvfE4UuYAFVDqPwuLppQTQhM&sid=d6893483&spx=%2F%23&type=http&host=avval.ir&path=%2Fsearch#%F0%9F%9A%80%20Reality%201
 vless://8da48452-c2b3-4d75-b75f-dfe38b39a565@194.28.226.51:3312?encryption=none&security=reality&sni=mikrotik.com&fp=chrome&pbk=LyI-b8e0jgCSSxgIZGiXBwmdQJrJMse7HzDPWUx6rUc&sid=8fdd1bf8&spx=%2Fdownload&type=grpc&serviceName=dl&mode=gun#%F0%9F%9A%80%20Reality%202
-vless://7045a954-da37-4f94-9fed-97e282446c4e@194.28.226.51:3074?security=reality&sni=www.pdf2go.com&fp=chrome&pbk=QcYbuqRNZlQJGc5feUpAoB5YzbiEIAL5r5UzclKciB4&sid=b302e14a2a46ab5e&type=tcp&flow=xtls-rprx-vision#%E2%9B%88%20WARP+
