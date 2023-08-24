@@ -1,3 +1,4 @@
 vless://cae6994a-c318-4dae-87bc-71ee8bc39cb0@cl-gl615aafa1.gcdn.co:443?encryption=none&security=tls&sni=pou77.online&alpn=http%2F1.1&type=ws&host=pou77.online&path=%2Fservice#%F0%9F%91%BA%20Gcore
 vless://e4a2918b-3658-4ee3-80f7-0d989e139b9c@open.silvermoon.host:8080?encryption=none&security=none&type=ws&host=upgrade.silvermoon.host&path=%2Fservice#%E2%8F%B1%20Fastly
-vless://f0a126ef-0cda-41e3-9211-b56694c0e787@104.31.16.218:443?encryption=none&security=tls&sni=dev.silvermoon.host&type=ws&host=dev.silvermoon.host&path=%2Fvless%2Ff0a126ef-0cda-41e3-9211-b56694c0e787#%E2%98%81%EF%B8%8F%20Worker
+vless://506a21fa-de54-4dfd-9021-6fe27a4f2e8b@104.31.16.218:2087?encryption=none&security=tls&sni=dl.silvermoon.host&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=service&mode=gun#%F0%9F%8E%AD%20Cloudflare
+vless://f0a126ef-0cda-41e3-9211-b56694c0e787@104.31.16.244:443?encryption=none&security=tls&sni=dev.silvermoon.host&type=ws&host=dev.silvermoon.host&path=%2Fvless%2Ff0a126ef-0cda-41e3-9211-b56694c0e787#%E2%98%81%EF%B8%8F%20Worker
