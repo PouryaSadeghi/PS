@@ -1,2 +1,176 @@
-vless://f0a126ef-0cda-41e3-9211-b56694c0e787@104.31.16.244:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host&encryption=none#%E2%98%81%EF%B8%8F%20Worker%201
-vless://f0a126ef-0cda-41e3-9211-b56694c0e787@104.31.16.218:443?security=tls&sni=dev.silvermoon.host&type=ws&path=/vless/f0a126ef-0cda-41e3-9211-b56694c0e787&host=dev.silvermoon.host&encryption=none#%E2%98%81%EF%B8%8F%20Worker%202
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "tapsell.ir",
+            "port": 2083,
+            "users": [
+              {
+                "id": "50d89e8d-d1f2-4f29-9138-620a4a045de0",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": false,
+          "serverName": "dL.ALlIaNcE-TecH.oNLinE",
+          "alpn": [
+            "h2",
+            "http/1.1"
+          ],
+          "fingerprint": "randomized",
+          "show": false
+        },
+        "wsSettings": {
+          "path": "/service?ed=2048",
+          "headers": {
+            "Host": "dL.ALlIaNcE-TecH.oNLinE"
+          }
+        },
+        "sockopt": {
+          "dialerProxy": "fragment",
+          "tcpKeepAliveIdle": 100,
+          "mark": 255,
+          "tcpNoDelay": true
+        }
+      },
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": "reject"
+      }
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "tlshello",
+          "length": "10-20",
+          "interval": "10-20"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpNoDelay": true,
+          "tcpKeepAliveIdle": 100
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api",
+        "enabled": true
+      },
+      {
+        "id": "5465425548310166497",
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:ir",
+          "geosite:cn"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5425034033205580637",
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private",
+          "geoip:cn",
+          "geoip:ir"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "5627785659655799759",
+        "type": "field",
+        "port": "0-65535",
+        "outboundTag": "proxy",
+        "enabled": true
+      }
+    ]
+  }
+}
